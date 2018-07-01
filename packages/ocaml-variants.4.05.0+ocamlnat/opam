@@ -1,5 +1,5 @@
 opam-version: "2.0"
-synopsis: "Official 4.05.0 release with native toplevel"
+synopsis: "Official 4.06.1 release with native toplevel"
 maintainer: "platform@lists.ocaml.org"
 authors: "The OCaml dev team"
 homepage:"http://ocaml.org"
@@ -15,6 +15,6 @@ build: [
 ]
 install: [make "install"]
 url {
-  src: "https://github.com/ocaml/ocaml/archive/4.05.0.tar.gz"
-  checksum: "md5=7e0079162134336a24b9028349c756bb"
+  src: "https://github.com/ocaml/ocaml/archive/4.06.1.tar.gz"
+  checksum: "md5=d02eb67b828de22c3f97d94b3c46acba"
 }
